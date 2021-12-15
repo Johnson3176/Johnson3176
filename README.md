@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Johnson3176
 - 👀 I’m interested in Moba games.
 - 🌱 I’m currently learning Artificial Intellegence.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Robot Master Windmill relating works.
 - 📫 How to reach me cschaozheyu@gmail.com
 
 <!---
